@@ -1,0 +1,3 @@
+policies:
+    - name: find-all-resource-groups
+      resource: azure.resourcegroup
