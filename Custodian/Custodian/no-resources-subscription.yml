@@ -1,0 +1,6 @@
+policies:
+    - name: test-azure
+      resource: azure.resourcegroup
+      filters:
+          - type: empty-group      
+

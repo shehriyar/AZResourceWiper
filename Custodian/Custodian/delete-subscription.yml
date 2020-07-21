@@ -1,0 +1,5 @@
+policies:
+  - name: test-azure
+    resource: azure.resourcegroup    
+    actions:
+        - type: delete
